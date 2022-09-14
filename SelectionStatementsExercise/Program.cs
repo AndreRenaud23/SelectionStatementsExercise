@@ -21,6 +21,8 @@ while (true)
     }
 }
 
+
+Console.WriteLine();
 Console.WriteLine("Press enter to continue to answer the second exercise");
 Console.ReadLine();
 
