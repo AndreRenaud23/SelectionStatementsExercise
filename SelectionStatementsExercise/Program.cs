@@ -21,7 +21,7 @@ while (true)
     }
 }
 
-Console.WriteLine("Press enter to continue to");
+Console.WriteLine("Press enter to continue to answer the second exercise");
 Console.ReadLine();
 
 Console.WriteLine("What is your favorite school subject? Choose one below");
@@ -34,7 +34,7 @@ switch (favSchoolSubject.ToUpper())
         break;
 
     case "ELA":
-        Console.WriteLine("Good for you!");
+        Console.WriteLine("Good for you! It is important to have a good grip of ELA");
         break;
 
     case "HISTORY":
